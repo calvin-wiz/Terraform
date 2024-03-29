@@ -2,6 +2,3 @@
 
 ## Place for terraform examples and code 
 
-Test
-
-Test
